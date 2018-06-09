@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## [Unreleased]
 ### Added
 - Added support for import sheet from XLSX, CSV file endpoints
+- Added support for sheet summary endpoints
 
 ## [1.1.0] - 2018-03-16
 ### Added
